@@ -1,0 +1,3 @@
+[submodule "external_libs/jett"]
+	path = external_libs/jett
+	url = https://github.com/Borschtsch/jett.git
